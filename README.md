@@ -7,7 +7,7 @@
 # InstaFans
 A Python Script To Increase Instagram Followers ⬆️
 
-![0001_0(2)](https://github.com/TnYtCoder/InstaFans/assets/115485810/657f88be-2ab1-4f68-8b0a-e63671f3b507)
+![0001_0(2)](https://github.com/yn.santosx/InstaFans/assets/115485810/657f88be-2ab1-4f68-8b0a-e63671f3b507)
 
 This Script `Follow Verified & Popular` Acoounts
 
